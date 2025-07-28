@@ -1,6 +1,6 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.4
 Name: plotverse
-Version: 0.0.4
+Version: 0.0.5
 Summary: Powerful data visualization and analysis library combining Pandas, Matplotlib, and Seaborn.
 Home-page: https://github.com/sk-sanju/plotverse
 Author: Sanju

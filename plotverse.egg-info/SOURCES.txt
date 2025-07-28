@@ -1,4 +1,5 @@
 README.md
+pyproject.toml
 setup.py
 plotverse.egg-info/PKG-INFO
 plotverse.egg-info/SOURCES.txt
