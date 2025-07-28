@@ -5,7 +5,7 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="plotverse",
-    version="0.0.6",
+    version="0.0.7",
     description="Powerful data visualization and analysis library combining Pandas, Matplotlib, and Seaborn.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
