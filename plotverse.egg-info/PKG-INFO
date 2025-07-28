@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: plotverse
-Version: 0.0.8
+Version: 0.0.9
 Summary: Data visualization library built with Pandas, Matplotlib, and Seaborn
 Home-page: https://github.com/sk-sanju/plotverse
 Author: Sanju
@@ -8,6 +8,9 @@ Author-email: sanju <sanjayskpy1@gmail.com>
 License: MIT
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
+Requires-Dist: pandas==2.2.2
+Requires-Dist: matplotlib==3.8.4
+Requires-Dist: seaborn==0.13.2
 Dynamic: author
 Dynamic: home-page
 Dynamic: requires-python
