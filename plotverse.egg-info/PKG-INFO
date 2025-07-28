@@ -1,12 +1,14 @@
 Metadata-Version: 2.2
 Name: plotverse
-Version: 0.0.3
+Version: 0.0.4
 Summary: Powerful data visualization and analysis library combining Pandas, Matplotlib, and Seaborn.
 Home-page: https://github.com/sk-sanju/plotverse
 Author: Sanju
 Author-email: sanjayskpy1@gmail.com
 License: MIT
 Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.11
