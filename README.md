@@ -16,7 +16,7 @@
 ## 📦 Installation
 
 ```bash
-pip install .
+pip install plotverse
 ```
 ## 🧠 Usage
 
