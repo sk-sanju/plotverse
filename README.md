@@ -2,7 +2,7 @@
 
   [![PyPI version](https://badge.fury.io/py/plotverse.svg)](https://badge.fury.io/py/plotverse)
   ![Python Versions](https://img.shields.io/pypi/pyversions/plotverse)
-[![GitHub version](https://img.shields.io/github/v/tag/sk-sanju/plotverse?label=version)](https://github.com/sk-sanju/plotverse/releases)
+  [![GitHub version](https://img.shields.io/github/v/tag/sk-sanju/plotverse?label=version)](https://github.com/sk-sanju/plotverse/releases)
 
 **One library to rule them all — Pandas + Matplotlib + Seaborn.**
 
